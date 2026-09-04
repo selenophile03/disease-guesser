@@ -3,32 +3,32 @@
     {
       "name": "Common Cold",
       "symptoms": ["cough", "runny nose", "sneeze", "sore throat", "mild fever", "fatigue"],
-      "description": "A viral infection of your nose and throat.",
-      "precautions": ["Stay hydrated", "Get plenty of rest", "Take over-the-counter pain relievers"]
+      "description": "A viral infection affecting the upper respiratory tract lines.",
+      "precautions": ["Maintain continuous hydration", "Prioritize sleep and physical rest", "Consider standard over-the-counter relief"]
     },
     {
       "name": "Influenza (Flu)",
       "symptoms": ["high fever", "cough", "sore throat", "muscle aches", "fatigue", "headache", "chills"],
-      "description": "A highly contagious viral infection that attacks your respiratory system.",
-      "precautions": ["Isolate yourself", "Drink warm fluids", "Consult a doctor for antiviral medication"]
+      "description": "A contagious viral strain actively impacting the pulmonary and respiratory systems.",
+      "precautions": ["Limit exposure to others", "Increase intake of warm fluids", "Consult clinical options regarding antiviral support"]
     },
     {
-      "name": "Gastroenteritis (Stomach Flu)",
+      "name": "Gastroenteritis",
       "symptoms": ["nausea", "vomiting", "diarrhea", "stomach cramps", "mild fever"],
-      "description": "An intestinal infection marked by watery diarrhea, cramps, nausea, and vomiting.",
-      "precautions": ["Avoid solid foods for a few hours", "Sip small amounts of water or electrolytes", "Rest"]
+      "description": "An acute intestinal tract infection causing digestive system disruption.",
+      "precautions": ["Pause solid food intake temporarily", "Consume small amounts of electrolyte solutions", "Restrict physical exertion"]
     },
     {
-      "name": "Migraine",
+      "name": "Migraine Episode",
       "symptoms": ["headache", "nausea", "sensitivity to light", "sensitivity to sound", "dizziness"],
-      "description": "A neurological condition that can cause severe, throbbing headaches.",
-      "precautions": ["Rest in a dark, quiet room", "Apply a cold compress to your forehead", "Stay hydrated"]
+      "description": "A neurological condition triggering severe, localized throbbing pain clusters.",
+      "precautions": ["Rest inside dark, quiet environments", "Apply localized cold compresses to the forehead area"]
     },
     {
       "name": "Allergic Rhinitis",
       "symptoms": ["sneeze", "runny nose", "itchy eyes", "watery eyes", "cough"],
-      "description": "An allergic reaction to airborne allergens like pollen, dust, or pet dander.",
-      "precautions": ["Avoid known allergens", "Use saline nasal sprays", "Consider antihistamines"]
+      "description": "An inflammatory responses to airborne particulates like pollen, dust, or dander.",
+      "precautions": ["Minimize exposure to identified environment triggers", "Apply saline rinse applications", "Review over-the-counter antihistamine options"]
     }
   ]
 }

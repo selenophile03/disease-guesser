@@ -1,0 +1,34 @@
+{
+  "diseases": [
+    {
+      "name": "Common Cold",
+      "symptoms": ["cough", "runny nose", "sneeze", "sore throat", "mild fever", "fatigue"],
+      "description": "A viral infection of your nose and throat.",
+      "precautions": ["Stay hydrated", "Get plenty of rest", "Take over-the-counter pain relievers"]
+    },
+    {
+      "name": "Influenza (Flu)",
+      "symptoms": ["high fever", "cough", "sore throat", "muscle aches", "fatigue", "headache", "chills"],
+      "description": "A highly contagious viral infection that attacks your respiratory system.",
+      "precautions": ["Isolate yourself", "Drink warm fluids", "Consult a doctor for antiviral medication"]
+    },
+    {
+      "name": "Gastroenteritis (Stomach Flu)",
+      "symptoms": ["nausea", "vomiting", "diarrhea", "stomach cramps", "mild fever"],
+      "description": "An intestinal infection marked by watery diarrhea, cramps, nausea, and vomiting.",
+      "precautions": ["Avoid solid foods for a few hours", "Sip small amounts of water or electrolytes", "Rest"]
+    },
+    {
+      "name": "Migraine",
+      "symptoms": ["headache", "nausea", "sensitivity to light", "sensitivity to sound", "dizziness"],
+      "description": "A neurological condition that can cause severe, throbbing headaches.",
+      "precautions": ["Rest in a dark, quiet room", "Apply a cold compress to your forehead", "Stay hydrated"]
+    },
+    {
+      "name": "Allergic Rhinitis",
+      "symptoms": ["sneeze", "runny nose", "itchy eyes", "watery eyes", "cough"],
+      "description": "An allergic reaction to airborne allergens like pollen, dust, or pet dander.",
+      "precautions": ["Avoid known allergens", "Use saline nasal sprays", "Consider antihistamines"]
+    }
+  ]
+}
